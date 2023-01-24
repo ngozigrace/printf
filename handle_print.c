@@ -46,4 +46,4 @@ int handle_print(const char *fmt, int *ind, va_list list, char buffer[],
 		return (unknow_len);
 	}
 	return (printed_chars);
-}/*by ngozigrace and Kingsleyadu*/
+}
